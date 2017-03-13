@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Farm Manager</string>
+    <string name="temp_humidity">Temperature &amp; Humidity</string>
+    <string name="turn_fan">Turn FAN</string>
+    <string name="turn_fan_sprinkler">Turn FAN \n &amp; Sprinkler</string>
+    <string name="fan_hint">Temperature(F) &gt; 70 &amp; \nTemperature(F) &lt; 90</string>
+    <string name="fan_sprinkler_hint">Temperature(F) &gt; 90 &amp; \nTemperature(F) &lt; 125</string>
+</resources>
