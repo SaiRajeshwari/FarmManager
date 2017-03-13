@@ -51,4 +51,30 @@ public class MainActivity extends AppCompatActivity {
         Button btn_temp_humidity = (Button) findViewById(R.id.temp_humidity);
         btn_temp_humidity.setText("Temperature " + temperature + "(F) \n & Humidity " + humidity + "%");
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
+
 }
