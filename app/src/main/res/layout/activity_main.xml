@@ -54,6 +54,7 @@
                     android:gravity="center_horizontal"
                     android:textStyle="bold"/>
                 <Button
+                    android:id="@+id/turn_fan"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/turn_fan"
@@ -89,6 +90,7 @@
                     android:gravity="center_horizontal"
                     android:textStyle="bold"/>
                 <Button
+                    android:id="@+id/turn_fan_sprinkler"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/turn_fan_sprinkler"
